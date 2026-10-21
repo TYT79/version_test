@@ -1,1 +1,13 @@
-{"version":"3.0.7"}
+{
+    "configVersion": "20261021-071218",
+    "version": {
+      "dev": "3.0.37",
+      "prod": "0.0.0",
+      "pro": "0.0.0"
+    },
+    "update": false,
+    "force_update": false,
+    "download_url": "",
+    "message": ""
+  }
+  
